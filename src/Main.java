@@ -4,5 +4,9 @@ public class Main {
 	// write your code here
         //kekeke
         int x = 0;
+
     }
+    public void nothing()
+    {}
+
 }
