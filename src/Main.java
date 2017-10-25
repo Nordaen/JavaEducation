@@ -20,6 +20,9 @@ public class Main {
 
         Sound.sound();
         System.out.println(s);
+
+        StrDemo.strdemo();
+        System.out.println(s);
     }
 
 
