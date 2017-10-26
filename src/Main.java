@@ -35,6 +35,9 @@ public class Main {
 
         ModDemo.moddemo();
         System.out.println(s);
+
+        RelLogOps.rellogops();
+        System.out.println(s);
     }
 
 
