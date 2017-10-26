@@ -30,7 +30,8 @@ public class Main {
         ScopeDemo.scopedemo();
         System.out.println(s);
 
-
+        VarInitDemo.varinitdemo();
+        System.out.println(s);
     }
 
 

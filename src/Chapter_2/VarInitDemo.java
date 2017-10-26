@@ -12,7 +12,7 @@ public class VarInitDemo {
             System.out.println("y:" + y);
             y=100;
             System.out.println("Changed y: "+ y);
-            
+
         }
     }
 }
