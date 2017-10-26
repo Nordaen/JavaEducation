@@ -38,6 +38,9 @@ public class Main {
 
         RelLogOps.rellogops();
         System.out.println(s);
+
+        SCops.scops();
+        System.out.println(s);
     }
 
 
