@@ -23,6 +23,12 @@ public class Main {
 
         StrDemo.strdemo();
         System.out.println(s);
+
+        DynInit.dyninit();
+        System.out.println(s);
+
+        ScopeDemo.scopedemo();
+        System.out.println(s);
     }
 
 
