@@ -32,6 +32,9 @@ public class Main {
 
         VarInitDemo.varinitdemo();
         System.out.println(s);
+
+        ModDemo.moddemo();
+        System.out.println(s);
     }
 
 
