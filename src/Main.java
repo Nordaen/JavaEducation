@@ -41,6 +41,9 @@ public class Main {
 
         SCops.scops();
         System.out.println(s);
+
+        LtoD.ltod();
+        System.out.println(s);
     }
 
 
