@@ -47,6 +47,9 @@ public class Main {
 
         CastDemo.castdemo();
         System.out.println(s);
+
+        LogicalOpTable.logicaloptable();
+        System.out.println(s);
     }
 
 
