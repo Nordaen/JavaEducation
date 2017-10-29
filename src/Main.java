@@ -44,6 +44,9 @@ public class Main {
 
         LtoD.ltod();
         System.out.println(s);
+
+        CastDemo.castdemo();
+        System.out.println(s);
     }
 
 
