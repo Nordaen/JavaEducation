@@ -50,6 +50,11 @@ public class Main {
 
         LogicalOpTable.logicaloptable();
         System.out.println(s);
+
+        PromDemo.promdemo();
+        System.out.println(s);
+
+        
     }
 
 
