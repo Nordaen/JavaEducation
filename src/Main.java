@@ -54,7 +54,8 @@ public class Main {
         PromDemo.promdemo();
         System.out.println(s);
 
-        
+        UseCast.usecast();
+        System.out.println(s);
     }
 
 
