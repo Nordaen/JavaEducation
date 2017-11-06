@@ -3,14 +3,16 @@ import Task.ColorUtils;
 import Task.MathInt;
 
 import java.awt.*;
+import java.io.IOException;
 import java.util.HashMap;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 	// write your code here
-     //   ChaptersLaunch.printdis(); // вывод результатов из глав
-       ChapterTwoTask.launch();
+        ChapterTwoTask.launch();
+        ChaptersLaunch.printdis(); // вывод результатов из глав
+
 
 
 

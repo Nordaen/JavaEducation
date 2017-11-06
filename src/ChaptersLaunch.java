@@ -1,8 +1,11 @@
 import Chapter_2.*;
+import Chapter_3.Guess;
+import Chapter_3.KbIn;
+
+import java.io.IOException;
 
 public class ChaptersLaunch {
-    public static void printdis()
-    {
+    public static void printdis() throws IOException {
         String s = "-------------------";
         Inches.inches();
         System.out.println(s);
@@ -53,6 +56,12 @@ public class ChaptersLaunch {
         System.out.println(s);
 
         UseCast.usecast();
+        System.out.println(s);
+
+       // KbIn.kbin();
+        System.out.println(s);
+
+        Guess.guess();
         System.out.println(s);
     }
 }
