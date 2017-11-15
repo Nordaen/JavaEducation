@@ -1,6 +1,5 @@
 import Chapter_2.*;
-import Chapter_3.Guess;
-import Chapter_3.KbIn;
+import Chapter_3.*;
 
 import java.io.IOException;
 
@@ -62,6 +61,15 @@ public class ChaptersLaunch {
         System.out.println(s);
 
         Guess.guess();
+        System.out.println(s);
+
+        SwitchDemo.switchdemo();
+        System.out.println(s);
+
+        NoBreak.nobreak();
+        System.out.println(s);
+
+        Help.help();
         System.out.println(s);
     }
 }
