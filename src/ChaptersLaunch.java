@@ -71,5 +71,10 @@ public class ChaptersLaunch {
 
         Help.help();
         System.out.println(s);
+
+        SqrRoot.SqrRoot();
+        System.out.println(s);
+
+
     }
 }
