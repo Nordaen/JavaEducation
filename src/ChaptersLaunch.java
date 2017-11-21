@@ -77,5 +77,11 @@ public class ChaptersLaunch {
 
         Comma.comma();
         System.out.println(s);
+
+        ForTest.fortest();
+        System.out.println(s);
+
+    Emty2.empty2();
+    System.out.println(s);
     }
 }

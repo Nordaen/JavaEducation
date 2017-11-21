@@ -8,6 +8,6 @@ public static void fortest() throws java.io.IOException
     System.out.println("Press S to stop.");
     for (i=0; (char) System.in.read() !='S'; i++)
         System.out.println("i value is: "+ i);
-    
+
 }
 }
