@@ -86,5 +86,11 @@ public class ChaptersLaunch {
 
     Emtpy3.emtpy3();
     System.out.println(s);
+
+    WhileDemo.whiledemo();
+    System.out.println(s);
+
+
+
     }
 }
