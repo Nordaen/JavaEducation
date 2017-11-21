@@ -90,6 +90,9 @@ public class ChaptersLaunch {
     WhileDemo.whiledemo();
     System.out.println(s);
 
+    Guess4.guess4();
+    System.out.println(s);
+
 
 
     }
