@@ -83,5 +83,8 @@ public class ChaptersLaunch {
 
     Emty2.empty2();
     System.out.println(s);
+
+    Emtpy3.emtpy3();
+    System.out.println(s);
     }
 }
