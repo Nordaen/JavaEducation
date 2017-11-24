@@ -18,8 +18,6 @@ public class Break6 {
                     if (y==2) break stop2;
                     System.out.println("x and y: " + x+ " " + y);
     }
-
-
         }
     }
 }
