@@ -1,4 +1,4 @@
-package Chapter_2;
+package Chapter_3;
 
 public class Break3 {
     public static void break3(){
