@@ -22,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Help3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Help3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter_3/Help3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="164">
@@ -32,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BreakDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter_2/BreakDemo.java">
+      <file leaf-file-name="FindFac.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter_3/FindFac.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -135,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter_2/StrDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter_2/DynInit.java" />
         <option value="$PROJECT_DIR$/src/Chapter_2/ScopeDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter_2/VarInitDemo.java" />
@@ -186,12 +185,13 @@
         <option value="$PROJECT_DIR$/src/Chapter_3/ContDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter_3/ContToLabel.java" />
         <option value="$PROJECT_DIR$/src/Chapter_3/Help3.java" />
+        <option value="$PROJECT_DIR$/src/Chapter_3/FindFac.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="380" />
-    <option name="y" value="469" />
+    <option name="x" value="406" />
+    <option name="y" value="604" />
     <option name="width" value="824" />
     <option name="height" value="692" />
   </component>
@@ -306,7 +306,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="380" y="469" width="824" height="692" extended-state="0" />
+    <frame x="406" y="604" width="824" height="692" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -350,16 +350,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter_2/LogicalOpTable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -731,6 +721,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="64" column="31" lean-forward="false" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter_3/FindFac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
         </state>
       </provider>
