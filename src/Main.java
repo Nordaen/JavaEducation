@@ -1,10 +1,8 @@
 import Chapter_2.*;
+import Chapter_3.ContDemo;
 import Task.ColorUtils;
 import Task.MathInt;
-import Task.TaskChapter3.Task10;
-import Task.TaskChapter3.Task1SpaceCounter;
-import Task.TaskChapter3.Task4;
-import Task.TaskChapter3.Task9;
+import Task.TaskChapter3.*;
 
 import java.awt.*;
 import java.io.IOException;
@@ -18,10 +16,10 @@ public class Main {
       //  ChaptersLaunch.printdis(); // вывод результатов из глав
        // Task1SpaceCounter.task1spacecounter();
        // Task4.Task4();
-        Task10.task10();
-
-
-
+      //  Task10.task10();
+       // ContDemo.contdemo();
+       // TestChapter.testChapter();
+        FinalTask.FinalTask();
 
     }
 
