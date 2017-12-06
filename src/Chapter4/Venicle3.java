@@ -6,11 +6,16 @@ public class Venicle3 {
     {
        return mpg * fuelcap;
     }
-
-    class RetMeth {
+double fuelneeded(int miles) {
+        return (double) miles/mpg;
+}
+    class CompFuel {
         public void Venicle3L() {
             Venicle3 minivan = new Venicle3();
             Venicle3 sportscar = new Venicle3();
+
+            double gallons;
+            int dist = 252;
 
             int range1, range2;
 
@@ -22,13 +27,16 @@ public class Venicle3 {
             sportscar.fuelcap = 14;
             minivan.mpg = 12;
 
-            System.out.print("minivan can transport + " + minivan.passengers
-             + "passengers.");
-            range1 = minivan.range();
-            range2 = minivan.range();
-            System.out.print("Sportcar can transport" + sportscar.passengers
-            + " passengers.");
-            sportscar.range();
+            gallons = minivan.fuelneeded(dist);
+
+         System.out.println("To overcome " + dist + " miles minivan needs "+
+         gallons + " gallons fuel");
+
+         gallons = sportscar.fuelneeded(dist);
+
+         System.out.println("To overcome " + dist+ " miles sportscar needed "+
+         gallons + " gallons fuel.");
+
 
         }
     }
