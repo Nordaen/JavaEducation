@@ -2,12 +2,12 @@ package Chapter4;
 
 public class Venicle3 {
     int passengers,fuelcap,mpg;
-    void range()
+    int range()
     {
-        System.out.println(" Range - " + fuelcap * mpg + " miles.");
+       return mpg * fuelcap;
     }
 
-    class AddMeth {
+    class RetMeth {
         public void Venicle3L() {
             Venicle3 minivan = new Venicle3();
             Venicle3 sportscar = new Venicle3();
@@ -24,7 +24,8 @@ public class Venicle3 {
 
             System.out.print("minivan can transport + " + minivan.passengers
              + "passengers.");
-            minivan.range();
+            range1 = minivan.range();
+            range2 = minivan.range();
             System.out.print("Sportcar can transport" + sportscar.passengers
             + " passengers.");
             sportscar.range();
