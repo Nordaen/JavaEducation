@@ -26,7 +26,7 @@ public class Pwr {
         System.out.println(x.b + "in grade " + x.e + " equal " + x.get_pwr());
         System.out.println(y.b + " in grade the " + y.e + " equal " + y.get_pwr());
         System.out.println(z.b + " in grade " + z.e + " equal " + z.get_pwr());
-    
+
 
     }
     }
