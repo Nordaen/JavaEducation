@@ -1,3 +1,4 @@
+import Chapter5.MinMax;
 import Chapter_2.*;
 import Chapter_3.ContDemo;
 import Task.ColorUtils;
@@ -19,7 +20,7 @@ public class Main {
       //  Task10.task10();
        // ContDemo.contdemo();
        // TestChapter.testChapter();
-        FinalTask.FinalTask();
+        MinMax.Launch();
 
     }
 
