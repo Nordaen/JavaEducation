@@ -33,18 +33,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MinMax.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter5/MinMax.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +103,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AssingARef.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AssingARef.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter5/AssingARef.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="383">
               <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LengthDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter5/LengthDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -153,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter_3/Guess.java" />
         <option value="$PROJECT_DIR$/src/Chapter_3/Guess3.java" />
         <option value="$PROJECT_DIR$/src/Chapter_3/Ladder.java" />
         <option value="$PROJECT_DIR$/src/Chapter_3/SwitchDemo.java" />
@@ -204,12 +201,13 @@
         <option value="$PROJECT_DIR$/src/Chapter5/Ragged.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/Squares.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/AssingARef.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/LengthDemo.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="663" />
-    <option name="y" value="32" />
+    <option name="x" value="597" />
+    <option name="y" value="15" />
     <option name="width" value="824" />
     <option name="height" value="782" />
   </component>
@@ -327,7 +325,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="663" y="32" width="824" height="782" extended-state="0" />
+    <frame x="597" y="15" width="824" height="782" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -439,13 +437,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter_3/WhileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter_3/Power.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -837,6 +828,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
           <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/LengthDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
           <folding />
         </state>
       </provider>
