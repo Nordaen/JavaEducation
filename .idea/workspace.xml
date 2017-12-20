@@ -33,26 +33,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubStr.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/SubStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringSwitch.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter5/StringSwitch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UpCase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter5/UpCase.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,15 +93,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShowBitsDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShowBitsDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter5/ShowBitsDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="340">
               <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="e#661#662#0" expanded="true" />
                 <element signature="e#696#697#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotZeroDiv.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter5/NotZeroDiv.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoZeroDiv2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter5/NoZeroDiv2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter_3/Help2.java" />
-        <option value="$PROJECT_DIR$/src/Chapter_2/BreakDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter_2/Break2.java" />
         <option value="$PROJECT_DIR$/src/Chapter_2/Break3.java" />
         <option value="$PROJECT_DIR$/src/Chapter_3/Break3.java" />
@@ -205,6 +203,8 @@
         <option value="$PROJECT_DIR$/src/Chapter5/NotDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/ShiftDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/ShowBitsDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/NotZeroDiv.java" />
+        <option value="$PROJECT_DIR$/src/Chapter5/NoZeroDiv2.java" />
       </list>
     </option>
   </component>
@@ -446,20 +446,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter_3/Emty2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter_3/FindFac.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter_3/ForTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -844,12 +830,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/ShowBitsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="340">
           <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="e#661#662#0" expanded="true" />
             <element signature="e#696#697#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/NotZeroDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter5/NoZeroDiv2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
