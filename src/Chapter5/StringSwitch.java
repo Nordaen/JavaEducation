@@ -18,7 +18,7 @@ public class StringSwitch {
             default:
                 System.out.println("Wrong command.");
                 break;
-            
+
         }
     }
 }
