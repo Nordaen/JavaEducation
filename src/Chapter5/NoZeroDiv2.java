@@ -7,6 +7,6 @@ public class NoZeroDiv2 {
         for(int i = 05; i<6; i++)
             if(i !=0? true:false)
                 System.out.println("100 / " + i + " equal " + 100/i);
-        
+
     }
 }
