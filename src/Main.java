@@ -1,4 +1,6 @@
 import Chapter5.MinMax;
+import Chapter5.Tasks.NineTask;
+import Chapter5.Tasks.Task13;
 import Chapter_2.*;
 import Chapter_3.ContDemo;
 import Task.ColorUtils;
@@ -20,8 +22,9 @@ public class Main {
       //  Task10.task10();
        // ContDemo.contdemo();
        // TestChapter.testChapter();
-        MinMax.Launch();
-
+      //  MinMax.Launch();
+        NineTask.Launch();
+        Task13.Launch();
     }
 
 
