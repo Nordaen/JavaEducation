@@ -25,6 +25,7 @@ public class Main {
       //  MinMax.Launch();
         NineTask.Launch();
         Task13.Launch();
+
     }
 
 
