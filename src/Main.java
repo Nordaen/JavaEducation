@@ -15,16 +15,11 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 	// write your code here
-      //  ChapterTwoTask.launch();
-      //  ChaptersLaunch.printdis(); // вывод результатов из глав
-       // Task1SpaceCounter.task1spacecounter();
-       // Task4.Task4();
-      //  Task10.task10();
-       // ContDemo.contdemo();
-       // TestChapter.testChapter();
-      //  MinMax.Launch();
-        NineTask.Launch();
-        Task13.Launch();
+      String str1;
+        String str2 = "kek";
+
+
+
 
     }
 
