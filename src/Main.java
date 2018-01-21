@@ -1,6 +1,7 @@
 import Chapter5.MinMax;
 import Chapter5.Tasks.NineTask;
 import Chapter5.Tasks.Task13;
+import Chapter6.Chapter6_Task13;
 import Chapter6.Task6;
 import Chapter_2.*;
 import Chapter_3.ContDemo;
@@ -16,7 +17,8 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 	// write your code here
-        Task6.Launch();
+        Chapter6_Task13 ch = new Chapter6_Task13();
+        ch.Launch();
 
 
     }
