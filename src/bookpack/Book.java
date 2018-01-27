@@ -15,7 +15,7 @@ public class Book {
     {
         System.out.println(title);
         System.out.println(author);
-        System.out.println(pubdate);
+        System.out.println(pubDate);
         System.out.println();
     }
 }
