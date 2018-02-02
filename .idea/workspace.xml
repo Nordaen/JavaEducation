@@ -43,16 +43,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Chapter6_Task13.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter6/Chapter6_Task13.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,22 +96,29 @@
       <file leaf-file-name="RandomAccessDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter10/RandomAccessDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter11/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TickTock.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter11/TickTock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter4/HelpClassDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/Venicle3.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/FDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter4/Pwr.java" />
@@ -205,12 +201,13 @@
         <option value="$PROJECT_DIR$/src/Chapter10/ReadBytes.java" />
         <option value="$PROJECT_DIR$/src/Chapter10/RandomAccessDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter11/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/Chapter11/TickTock.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="633" />
-    <option name="y" value="221" />
+    <option name="x" value="290" />
+    <option name="y" value="151" />
     <option name="width" value="758" />
     <option name="height" value="688" />
   </component>
@@ -229,8 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -250,11 +245,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaEducation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaEducation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEducation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="TickTock.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,7 +338,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="221" width="758" height="688" extended-state="0" />
+    <frame x="290" y="151" width="758" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -348,8 +358,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24689966" sideWeight="0.471875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24689966" sideWeight="0.471875" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -446,13 +456,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter4/Pwr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/ArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -810,20 +813,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter10/RandomAccessDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter11/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/TickTock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
