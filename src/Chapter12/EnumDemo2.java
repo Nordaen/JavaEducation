@@ -1,4 +1,4 @@
-package Chapter11;
+package Chapter12;
 enum Transport{
     CAR,TRUCK,AIRPLANE,TRAIN,BOAT;
 }
@@ -17,7 +17,9 @@ public class EnumDemo2 {
         System.out.println();
 
         tp = Transport.valueOf("AIRPLANE");
+        String str = tp.toString();
         System.out.println("tp contains: "+ tp);
+        System.out.println(str);
 
     }
 }
