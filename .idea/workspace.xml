@@ -33,16 +33,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoDShape.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter7/TwoDShape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1513">
-              <caret line="101" column="35" lean-forward="false" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bookpack/Book.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutoBox2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AutoBox2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter12/AutoBox2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="357">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#72#73#0" expanded="true" />
                 <element signature="e#127#128#0" expanded="true" />
@@ -116,6 +106,16 @@
                 <element signature="e#203#204#0" expanded="true" />
                 <element signature="e#228#229#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quadratic.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter12/Quadratic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -158,7 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter5/ArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/MinMax.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/MinMax2.java" />
         <option value="$PROJECT_DIR$/src/Chapter5/ArrayErr.java" />
@@ -209,6 +208,7 @@
         <option value="$PROJECT_DIR$/src/Chapter11/TickTock.java" />
         <option value="$PROJECT_DIR$/src/Chapter12/EnumDemo2.java" />
         <option value="$PROJECT_DIR$/src/Chapter12/AutoBox2.java" />
+        <option value="$PROJECT_DIR$/src/Chapter12/Quadratic.java" />
       </list>
     </option>
   </component>
@@ -469,13 +469,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter5/ArrayErr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter5/Bubble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -833,8 +826,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter12/AutoBox2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#72#73#0" expanded="true" />
             <element signature="e#127#128#0" expanded="true" />
@@ -843,6 +836,14 @@
             <element signature="e#203#204#0" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter12/Quadratic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>

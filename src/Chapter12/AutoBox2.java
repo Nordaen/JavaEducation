@@ -22,7 +22,7 @@ public class AutoBox2 {
 
         iOb = 100;
         System.out.println("Root square from iOb: " + Math.sqrt(iOb));
-        
+
     }
 
 }
